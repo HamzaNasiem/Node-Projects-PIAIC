@@ -9,3 +9,5 @@ https://github.com/HamzaNasiem/Currency-Converter
 https://github.com/HamzaNasiem/ATM
 ### Todo List
 https://github.com/HamzaNasiem/TODO-List
+### Quiz Game
+https://github.com/HamzaNasiem/Typescript-quiz-game-CLI
